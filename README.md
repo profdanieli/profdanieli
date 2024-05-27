@@ -1,16 +1,15 @@
-## Hi there 👋
+##  boas vindas ao meu perfil 💙
 
-<!--
-**profdanieli/profdanieli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome e danieli 
 
-Here are some ideas to get you started:
+- estou estudando na [alura] (https://www.alura.com.br)
+- estou me desenvolvendo na linguiagem javascript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo :mailbox
+
+danielisantos@prof.educacao.sp.gov.br
+
+@danielimoraes
+
+![](https://media.tenor.com/nrJ0FfU9WQ0AAAAj/funny.gif)
